@@ -5,7 +5,12 @@ div{
     background-color: aqua;
     color: black;
 }
-div>h1{
+div>h2{
     font-size: 30px;
     font-weight: bolder;
+}
+div>h1{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
 }
